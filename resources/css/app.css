@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Inter";
+    src: url("../fonts/Inter_28pt-Reguler.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+*{
+    font-family: "Inter";
+}
